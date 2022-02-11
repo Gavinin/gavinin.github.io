@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://gavinin.github.io</id>
+    <title>Gavin&apos;s Blog</title>
+    <updated>2022-02-11T19:44:01.479Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://gavinin.github.io"/>
+    <link rel="self" href="https://gavinin.github.io/atom.xml"/>
+    <subtitle>Record my life</subtitle>
+    <logo>https://gavinin.github.io/images/avatar.png</logo>
+    <icon>https://gavinin.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, Gavin&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello Eveone]]></title>
+        <id>https://gavinin.github.io/post/welcome/</id>
+        <link href="https://gavinin.github.io/post/welcome/">
+        </link>
+        <updated>2021-10-07T01:16:00.000Z</updated>
+        <content type="html"><![CDATA[<p>👏  Welcome to my blog!<br>
+✍️  In this website , I will share my idea, technology and so on.</p>
+<p><a href="https://github.com/gavinin">Github</a></p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
